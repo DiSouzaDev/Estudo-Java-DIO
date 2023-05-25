@@ -1,2 +1,10 @@
-# Estudo-Java-DIO
-Repositório que contém alguns dos meus estudos em Java ministrados pela DIO
+# Codigos estruturados durante os estudos da DIO
+Contém alguns dos projetos feitos durante as aulas da DIO. Eles não foram pedidos como atividades de entrega, porém foram muito interessantes para aumentar meu conhecimento e aprendizado.
+
+Na pasta exemplos aulas você pode encontrar os projetos passados nas aulas de estruturas de dados, como [Pilha](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/EstruturaDeDados/pilha/untitled/src/main/java/com/pilhaEstudo), [Fila](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/EstruturaDeDados/fila/untitled/src/main/java/com/filaExemplo), [Lista Encadeada](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/EstruturaDeDados/ListaEncadeada/untitled/src/main/java/com/listaEncadeada), [Lista Duplamente Encadeada](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/EstruturaDeDados/ListaDuplamenteEncadeada/untitled/src/main/java/com/ListaDuplamenteEncadeada), [Listas Circulares](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/EstruturaDeDados/ListaCircular/untitled/src/main/java/com/listaCircular) e [Árvores Binárias](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/EstruturaDeDados/ArvoreBinaria/untitled/src/main/java/com/arvoreBinaria).
+
+Na pasta de POO há uma atividade sobre [herança e polimorfismo](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/POO/HerancaJava/conceitoDeHeranca/src/main/java/org) e uma [calculadora](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/POO/calculadora/calculadora/src/main/java/org/calculadora) seguindo essas ideia.
+
+Na página de Spring Boot temos exercícios de [JPA](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/Spring%20Boot/JPA/demo/src/main/java/com/springDataJPA/aula), [RestAPI](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/Spring%20Boot/RestAPI/demo/src/main/java/dio/myFyrstApi), [SpringJWT](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/Spring%20Boot/SpringJWT/demo/src/main/java/dio/springJwt/demo) e [Spring Security](https://github.com/DiSouzaDev/Estudo-Java-DIO/tree/main/ExemplosAula/Spring%20Boot/SpringSecurity/demo/src/main/java/dio/springSecurity).
+
+A ultima posta contém apenas alguns projetos simples de teste.
